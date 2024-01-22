@@ -9,3 +9,6 @@ Overall calls answered/abandoned
 Calls by time
 Average speed of answer
 Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+
+Steps.
+- Data Cleaning
