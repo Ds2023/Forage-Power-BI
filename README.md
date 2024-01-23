@@ -14,3 +14,5 @@ Agent’s performance quadrant -> average handle time (talk duration) vs calls a
 
 Steps.
 - Data Cleaning
+- Reports
+- Dashboard Building
