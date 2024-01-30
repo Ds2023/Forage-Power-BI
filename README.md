@@ -16,3 +16,4 @@ Steps.
 - Data Cleaning
 - Reports
 - Dashboard Building
+- Insights 
