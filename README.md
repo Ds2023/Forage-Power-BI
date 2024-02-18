@@ -21,3 +21,8 @@ Steps.
 # Task 2
 
 Analysis on churn within a customer basis.
+
+# Task 3
+
+Customer inclusion analysis
+
