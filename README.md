@@ -16,4 +16,8 @@ Steps.
 - Data Cleaning
 - Reports
 - Dashboard Building
-- Insights 
+- Insights
+
+# Task 2
+
+Analysis on churn within a customer basis.
