@@ -25,4 +25,5 @@ Analysis on churn within a customer basis.
 # Task 3
 
 Customer inclusion analysis
+KPI's for performance
 
