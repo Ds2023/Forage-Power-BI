@@ -1,29 +1,35 @@
 # Forage-Power-BI
 
-# Task 1
+# Task 1 : Call Centre Analysis
 
-Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative! 
+The objective is to create an informative and visually appealing dashboard for a client, incorporating a variety of KPIs. While the list is not exhaustive, potential KPIs include:
 
-Possible KPIs include (to get you started, but not limited to):
+- Overall Customer Satisfaction: Evaluate customer satisfaction levels to gauge the success of marketing strategies and services.
+- Overall Calls Answered/Abandoned: Understand call traffic and customer engagement by tracking the number of calls answered versus abandoned.
+- Calls by Time: Analyze the distribution of calls throughout the day to identify peak hours and optimize resource allocation
+- Average Speed of Answer: Measure the efficiency of call response times, ensuring a positive customer experience.
+- Agent's Performance Quadrant: Visualize agent performance using the average handle time (talk duration) versus calls answered, helping identify high-performing agents and areas for improvement.
 
-Overall customer satisfaction
-Overall calls answered/abandoned
-Calls by time
-Average speed of answer
-Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+# Task 2 : Churn Analysis
 
-Steps.
-- Data Cleaning
-- Reports
-- Dashboard Building
-- Insights
+Create a dashboard that will include visualizations for the defined KPIs, allowing for easy interpretation and actionable insights.
 
-# Task 2
+Components of the Dashboard:
 
-Analysis on churn within a customer basis.
+- Overview of Churn Rate Trends
+- Customer Lifetime Value Analysis
+- Customer Satisfaction Metrics
+- Predictive Churn Model Visualization
 
-# Task 3
+# Task 3 : Diversity and Inclusion Analysis
 
-Customer inclusion analysis
-KPI's for performance
+Providing insight into diversity and inclusion by defining relevant metrics such as:
 
+- Number of Men and Women: Understand gender distribution.
+- Number  of Leavers: Track employee departures by gender.
+- % Employees Promoted (FY21): Evaluate promotion rates.
+- % of Women Promoted: Assess female promotion rates.
+- % of Hires Men/Women: Analyze gender distribution in new hires.
+- % Turnover: Understand overall turnover percentage.
+- Average Performance Rating (Men/Women): Evaluate performance ratings by gender.
+ 
